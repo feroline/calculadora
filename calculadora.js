@@ -34,7 +34,6 @@ function funcao(num){
     
 }
 
-
 function operacao(operacao){
 	calculadora.op = operacao;
     
