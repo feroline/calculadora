@@ -1,0 +1,12 @@
+#campoTexto{
+    border-radius: 20px;
+    text-align: right;
+}
+button{
+    width: 23%;
+    background-color:rgba(211, 198, 198, 0.842) ;
+    border: 2px;
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 20px;
+}
